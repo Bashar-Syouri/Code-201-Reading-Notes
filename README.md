@@ -7,7 +7,7 @@
 
 | Reading Topic       | live URLs     | 
 | :------------- | :----------: |
-|  Class-01 |[link](https://bashar-syouri.github.io/reading-notes/Class-01)   |
+|  Class-01 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-01)   |
 |  Class-02 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-02)   |
 |  Read-03 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-03)   |
 |  Read-04|[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04)   |
