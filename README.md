@@ -7,10 +7,20 @@
 
 | Reading Topic       | live URLs     | 
 | :------------- | :----------: |
-|  Class-01 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-01)   |
-|  Class-02 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-02)   |
-|  Read-03 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-03)   |
-|  Read-04|[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04)   |
+|  Class-01 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-01)   | 
+| Class-02  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-02) | 
+| Read-03  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-03) | 
+| Read-04   | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04) |                 
+| Read-05  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-05) |
+|  read |[link]()   | 
+|  read|[link]()   |
+|  read |[link]()   |
+|  read |[link]()   |
+|  read |[link]()   
+
+
+
+
 
 
 <!--I got some of summarizes in class-02 from 'Sultan Elayan' https://github.com/sultan-elayan/reading-notes--> 
