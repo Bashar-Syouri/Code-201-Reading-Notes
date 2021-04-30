@@ -2,7 +2,7 @@
 
 **Chapter 5**
 
-**IMAGES**
+### IMAGES
 
 There are many reasons why you might want to add an image to a web page: you might want to include a logo, photograph, illustration, diagram, or chart.
 
@@ -150,5 +150,156 @@ Examples of block elements include the < h1 > and < p > elements.
 - **Inline elements sit within a block level element and do not start on a new line.**
  Examples of inline elements include the < b >, < em >, and < img > elements.
 
+-----------
 
+
+
+
+**Capter 11**
+
+
+
+### Color
+
+
+**Color can really bring your pages to life.**
+
+In this chapter we will look at:-
+
+- How to specify colors, as there are three common ways in which you can indicate your choice of colors (plus extra ways made available in CSS3).
+
+- Color terminology, as there are some terms that are very helpful to understand when it comes to picking colors.
+
+- Contrast, and ensuring that your text is readable.
+
+- Background colors for behind either your entire page or parts of a page.
+
+
+![Color](https://rgbcolorcode.com/rgbcolor/rgbcolorcode.jpg)
+
+------
+
+
+**Foreground Color**
+
+**color**
+
+The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:  
+
+1. **RGB VALUES**
+
+2. **HEX CODES**
  
+3. **COLOR NAMES**
+  
+
+  ![](https://cdn.educba.com/academy/wp-content/uploads/2020/03/CSS-Color-Codes.jpg)
+
+
+**1. RGB VALUES**
+
+These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+
+
+ **2. HEX CODES**
+
+These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80.
+
+**3. COLOR NAMES**
+
+There are 147 predefined color names that are recognized by browsers. For example: DarkCyan.
+
+
+------
+
+
+
+
+**Capter 12**
+
+
+
+### TEXT 
+
+
+The properties that allow you to control the appearance of text can be split into two groups: 
+
+- Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic and the size of the text).
+
+- Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters).
+
+The formatting of your text can have a significant effect on how readable your pages are. As we look through these properties I will also give you some design tips on how to display your type.
+
+
+![text](https://www.datanumen.com/blogs/wp-content/uploads/2016/05/Outlook-insert-text-using-Quick-Parts.jpg)
+
+----
+
+
+
+
+ ![](https://slideplayer.com/slide/14463197/90/images/3/TYPEFACE+TERMINOLOGY+SERIF+SANS-SERIF+MONOSPACE.jpg)
+
+ **Typeface Terminology**
+
+ - **Serif** 
+
+   - Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs.
+  
+     - In print, serif fonts were traditionally used for long passages of text because they were considered easier to read.
+
+
+- **Sans-Serif**
+
+  - Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
+
+    - Screens have a lower resolution than print. So, if the text is small, sans-serif fonts can be clearer to read.
+
+- **Monospace**
+
+  - Every letter in a monospace (or  fixed-width) font is the same width. (Non-monospace fonts have different widths.)
+     
+     - Monospace fonts are commonly used for code because they align nicely, making the text easier to follow.
+
+-------
+
+
+![](https://www.shillingtoneducation.com/content-blog/uploads/2019/09/Typography_Anatomy.jpg)
+
+
+- **WEIGHT**
+
+  - Light
+  - Medium
+  - __Blod__
+  - Black
+
+The font weight not only adds emphasis but can also affect the amount of white space and contrast on a page.
+
+- **STYLE**
+
+  - Normal
+  - *Italic*
+  - Oblique
+
+Italic fonts have a cursive aspect to some of the lettering. Oblique font styles take the normal style and put it on an angle.
+
+- **STRETCH**
+  
+  - Condensed
+  - Regular
+  - Extended
+
+In condensed (or narrow) versions of the font, letters are thinner and closer together. In expanded versions they are thicker and further apart.
+
+
+
+
+
+
+
+
+
+
+
+
