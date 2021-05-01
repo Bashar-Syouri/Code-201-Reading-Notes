@@ -12,7 +12,7 @@
 | Read-03  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-03) | 
 | Read-04   | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04) |                 
 | Read-05  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-05) |
-|  read |[link]()   | 
+|  Read-06 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-06)   | 
 |  read|[link]()   |
 |  read |[link]()   |
 |  read |[link]()   |
