@@ -38,15 +38,15 @@ If you have a page that shows several images (such as product photographs or mem
 
 **Stock photos**
 
-[istockphoto](www.istockphoto.com)
+[istockphoto](https://www.istockphoto.com/)
 
-[gettyimages](www.gettyimages.com)
+[gettyimages](https://www.gettyimages.ae/)
 
-[veer](www.veer.com)
+[veer](https://www.veer.com/)
 
-[sxc](www.sxc.hu)
+[sxc](https://www.freeimages.com/)
 
-[fotolia](www.fotolia.com)
+[fotolia](https://www.fotolia.com/)
 
 
 
