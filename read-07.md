@@ -81,7 +81,7 @@ Using < th > elements for headings helps people who use screen readers, improves
 You can use the scope attribute on the < th > element to indicate whether it is a heading for a column or a row. It can take the values: row to indicate a heading for a row or col to indicate a heading for a column.
 
 
-**Spanning ColumnS and Rows:**
+**Spanning Columns and Rows:**
 
 You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 
