@@ -88,4 +88,7 @@ Resolution refers to the number of dots a screen shows per inch. Some devices ha
 
 **Page Sizes**
 
-Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).
+Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens ).
+
+
+&copy; 2021
