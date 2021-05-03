@@ -5,18 +5,18 @@
 
 ## table of content ^.^ 
 
-| Reading Topic       | Live URLs     | 
+| Reading Topic  | Live URLs    
 | :------------- | :----------: |
-|  Class-01 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-01)   | 
-| Class-02  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-02) | 
+| Class-01 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-01) | 
+| Class-02 | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/class-02)| 
 | Read-03  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-03) | 
-| Read-04   | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04) |                 
+| Read-04  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-04) |                 
 | Read-05  | [link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-05) |
-|  Read-06 |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-06)   | 
-|  Read-07|[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-07)   |
-|  read |[link]()   |
-|  read |[link]()   |
-|  read |[link]()   
+| Read-06  |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-06)  | 
+| Read-07  |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-07)  |
+| Read-08  |[link](https://bashar-syouri.github.io/Code-201-Reading-Notes/read-08)  |
+| Read-09  |[link]()  |
+| Read-10  |[link]())   |
 
 
 
